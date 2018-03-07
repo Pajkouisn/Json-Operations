@@ -1,6 +1,2 @@
-# Set the default behavior, in case people don't have core.autocrlf set.
-* text=auto
-
 # Explicitly set o LF.
-*.java eol=LF
-*.md eol=LF
+*.* eol=LF
